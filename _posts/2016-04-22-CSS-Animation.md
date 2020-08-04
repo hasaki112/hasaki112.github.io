@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CSS Animation
+date: 2016-04-22
 category: CSS
 tags: [css]
 ---
