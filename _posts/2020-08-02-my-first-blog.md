@@ -4,9 +4,7 @@ title: 'My first blog'
 date: 2020-08-02
 permalink: /posts/2020/08/my-first-blog/
 category: welcome
-tags:
-  - my first blog
-  - yolo
+tags: ['my first blog','yolo']
 ---
 
 Welcome to Yi Wang's blog site. I will update my blogs here from now on.
